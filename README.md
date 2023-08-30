@@ -34,7 +34,16 @@ Das Logo darf nur auf weißem Hintergrund (#FFFFFF) verwendet werden.
 
 Das Logo steht immer deutlich heraus. Auf allen vier Seiten um das Logo soll mindestens die Hälfte der Höhe des Logos an weißem Freiraum zur Verfügung stehen. 
 
+Steht das Logo innerhalb eines anderen grafischen Elementes, z.B. eines Bildes, so wird es als "Ribbon" am linken oder rechten Rand des Elementes positioniert. Das Ribbon hat dabei einen Abstand von 1/8 der Höhe des Elementes nach oben bzw. unten und hat eine Höhe von 1/8 des Elementes.
+
+Mögliche Positionen:
+
+![Alt text](/images/logo-ribbon-positions.png "Optional title")
+
+
 ### Konstruktion
+
+#### Markenlogo
 
 ![Alt text](/images/2023-consilica-logo-design.svg "Optional title")
 
@@ -45,6 +54,12 @@ Das äußere Hexagon hat die Farbe #2E7390.
 Das innere Hexagon hat die Farbe #158ECO.
 
 Das Wortelement hat die Farbe #4F4F4F.
+
+#### Ribbons
+
+![Alt text](/images/2023-consilica-logo-ribbon-left-design.svg "Optional title")
+
+![Alt text](/images/2023-consilica-logo-ribbon-right-design.svg "Optional title")
 
 ## Kleinschreibung
 
