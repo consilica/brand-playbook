@@ -32,7 +32,7 @@ Das Logo darf nicht verzerrt werden.
 
 Das Logo darf nur auf weißem Hintergrund (#FFFFFF) verwendet werden.
 
-Das Logo steht immer deutlich heraus. Auf allen vier Seiten um das Logo soll mindestens die Hälfte der Höhe des Logos an weisesm Freiraum zur Verfügung stehen.
+Das Logo steht immer deutlich heraus. Auf allen vier Seiten um das Logo soll mindestens die Hälfte der Höhe des Logos an weißem Freiraum zur Verfügung stehen. 
 
 ### Konstruktion
 
