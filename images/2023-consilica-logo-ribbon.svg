@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="297mm"
-   height="210mm"
-   viewBox="0 0 297 210"
+   width="273.85199mm"
+   height="72mm"
+   viewBox="0 0 273.85199 72"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
-   sodipodi:docname="2023-consilica-logo-white-ribbon.svg"
+   sodipodi:docname="2023-consilica-logo-ribbon.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.54115914"
-     inkscape:cx="421.31784"
-     inkscape:cy="599.63877"
+     inkscape:cx="174.62516"
+     inkscape:cy="340.93483"
      inkscape:window-width="1608"
      inkscape:window-height="1027"
      inkscape:window-x="135"
@@ -37,15 +37,16 @@
      id="defs2">
     <rect
        x="1954.9263"
-       y="342.1121"
+       y="342.11209"
        width="1595.0421"
-       height="71.088228"
+       height="71.088226"
        id="rect16448" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-1.4901161e-7,-69.000002)">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.469738;stroke-linecap:round;stroke-opacity:1"
        id="rect1668"
