@@ -2,16 +2,16 @@
 
 ## Farbpalette
 
-Reguläre Farben
+### Reguläre Farben
 
-* \#4f4f4f
-* \#2E7390
-* \#158EC0
+- ![#4F4F4F](https://placehold.co/100x100/4f4f4f/4f4f4f.png) `#4F4F4F`
+- ![#2E7390](https://placehold.co/100x100/2e7390/2e7390.png) `#2E7390`
+- ![#158EC0](https://placehold.co/100x100/158ec0/158ec0.png) `#158EC0`
 
-Akzentfarben
+### Akzentfarben
 
-* \#0C456A
-* \#FFBD59
+- ![#0C456A](https://placehold.co/100x100/0C456A/0C456A.png) `#0C456A`
+- ![#FFBD59](https://placehold.co/100x100/FFBD59/FFBD59.png) `#FFBD59`
 
 ## Logo
 
