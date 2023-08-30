@@ -38,6 +38,14 @@ Das Logo steht immer deutlich heraus. Auf allen vier Seiten um das Logo soll min
 
 ![Alt text](/images/2023-consilica-logo-design.svg "Optional title")
 
+Die Font im Wortelement des Logos ist Verdana.
+
+Das äußere Hexagon hat die Farbe #2E7390.
+
+Das innere Hexagon hat die Farbe #158ECO.
+
+Das Wortelement hat die Farbe #4F4F4F.
+
 ## Kleinschreibung
 
 Der Name der Marke wird immer klein geschrieben.
