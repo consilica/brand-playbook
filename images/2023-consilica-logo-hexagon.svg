@@ -15,18 +15,18 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.44785584"
-     inkscape:cx="430.94225"
-     inkscape:cy="530.30458"
+     inkscape:cx="136.20454"
+     inkscape:cy="532.53743"
      inkscape:window-width="1608"
      inkscape:window-height="1027"
      inkscape:window-x="135"
@@ -46,9 +46,19 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:3.17676;stroke-linecap:square;stroke-dasharray:3.36207, 0.840517"
+       id="rect2808"
+       width="164.77425"
+       height="176.82324"
+       x="66.112877"
+       y="16.588379"
+       inkscape:export-filename="2023-consilica-logo-hexagon.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <g
        id="g17217"
-       transform="matrix(4,0,0,4,29.803634,-315.15216)">
+       transform="matrix(2.4515065,0,0,2.4515065,75.753771,-152.50144)">
       <path
          sodipodi:type="star"
          style="fill:none;stroke:#2e7390;stroke-width:16;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
