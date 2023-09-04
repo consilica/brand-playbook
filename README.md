@@ -13,6 +13,19 @@
 - ![#0C456A](https://placehold.co/100x100/0C456A/0C456A.png) `#0C456A`
 - ![#FFBD59](https://placehold.co/100x100/FFBD59/FFBD59.png) `#FFBD59`
 
+## Fonts
+
+### Fonts auf der Website
+
+* Arial
+* Arial Bold
+
+### Social Media
+
+* Überschriften: League Spartan
+* Fließtext: Roboto und Roboto Condensed
+* Akzentschrift (z.B. Buttons, sekundäre Überschriften): Montserrat
+
 ## Logo
 
 Das Markenlogo von consilica besteht aus einem Bild- und Wortelement.
