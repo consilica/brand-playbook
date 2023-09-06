@@ -55,15 +55,16 @@ Mögliche Positionen:
 
 ![Alt text](/images/ribbon-positions-wide.png "Optional title")
 
-
+![Alt text](/images/ribbon-positions-square.png "Optional title")
 
 ### Konstruktion
 
 #### Markenlogo
 
-![Alt text](/images/2023-consilica-logo-design.svg "Optional title")
+![Alt text](/images/logo-design.svg "Optional title")
 
-Die Font im Wortelement des Logos ist Verdana.
+Die Font im Wortelement des Logos ist Verdana. Der Buchstabenabstand ist
+reduziert (-5px im SVG mit Inkscape).
 
 Das äußere Hexagon hat die Farbe #2E7390.
 
@@ -73,9 +74,9 @@ Das Wortelement hat die Farbe #4F4F4F.
 
 #### Ribbons
 
-![Alt text](/images/2023-consilica-logo-ribbon-left-design.svg "Optional title")
+![Alt text](/images/ribbon-left-design.svg "Optional title")
 
-![Alt text](/images/2023-consilica-logo-ribbon-right-design.svg "Optional title")
+![Alt text](/images/ribbon-right-design.svg "Optional title")
 
 ## Kleinschreibung
 
