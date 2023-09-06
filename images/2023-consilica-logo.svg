@@ -2,20 +2,23 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="278.02899mm"
+   width="267.44601mm"
    height="80mm"
-   viewBox="0 0 278.02899 80"
+   viewBox="0 0 267.44601 80"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
    sodipodi:docname="2023-consilica-logo.svg"
+   inkscape:export-filename="2023-consilica-logo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#000000"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:showpageshadow="2"
@@ -24,12 +27,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.72776573"
-     inkscape:cx="548.94038"
-     inkscape:cy="129.84948"
-     inkscape:window-width="1608"
+     inkscape:zoom="0.96102398"
+     inkscape:cx="494.78474"
+     inkscape:cy="106.65707"
+     inkscape:window-width="1920"
      inkscape:window-height="1027"
-     inkscape:window-x="135"
+     inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
@@ -46,58 +49,51 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-9.4854995,-64.999996)">
-    <rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:2.60276;stroke-linecap:square;stroke-dasharray:2.75458, 0.688646"
-       id="rect964"
-       width="275.42624"
-       height="77.39724"
-       x="10.78688"
-       y="66.301376"
-       inkscape:export-filename="2023-consilica-logo.png"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300" />
+     transform="translate(-29.485368,-85)">
     <g
-       id="g802"
-       transform="matrix(0.81716883,0,0,0.81716883,28.056337,19.166187)">
-      <path
-         sodipodi:type="star"
-         style="fill:none;stroke:#2e7390;stroke-width:16;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="path4077"
-         inkscape:flatsided="true"
-         sodipodi:sides="6"
-         sodipodi:cx="97.623878"
-         sodipodi:cy="152.88797"
-         sodipodi:r1="94.97036"
-         sodipodi:r2="82.246742"
-         sodipodi:arg1="2.0943951"
-         sodipodi:arg2="2.6179939"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="M 50.138699,235.13471 2.6535187,152.88797 50.138698,70.641226 l 94.970362,0 47.48518,82.246744 -47.48518,82.24674 z"
-         inkscape:transform-center-x="9.0499851e-06"
-         transform="matrix(0.27119811,0,0,0.27119811,3.1986806,63.575112)" />
-      <path
-         sodipodi:type="star"
-         style="fill:none;stroke:#158ec0;stroke-width:20.8333;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         id="path4077-7"
-         inkscape:flatsided="true"
-         sodipodi:sides="6"
-         sodipodi:cx="97.623878"
-         sodipodi:cy="152.88797"
-         sodipodi:r1="94.97036"
-         sodipodi:r2="82.246742"
-         sodipodi:arg1="2.0943951"
-         sodipodi:arg2="2.6179939"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         d="M 50.138699,235.13471 2.6535187,152.88797 50.138698,70.641226 l 94.970362,0 47.48518,82.246744 -47.48518,82.24674 z"
-         transform="matrix(0.20828013,0,0,0.20828013,9.3409788,73.194512)"
-         inkscape:transform-center-x="4.8233291e-06" />
+       id="g1000"
+       transform="translate(20.000009,20)">
+      <g
+         id="g994">
+        <path
+           sodipodi:type="star"
+           style="fill:none;stroke:#2e7390;stroke-width:16;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="path4077"
+           inkscape:flatsided="true"
+           sodipodi:sides="6"
+           sodipodi:cx="97.623878"
+           sodipodi:cy="152.88797"
+           sodipodi:r1="94.97036"
+           sodipodi:r2="82.246742"
+           sodipodi:arg1="2.0943951"
+           sodipodi:arg2="2.6179939"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="M 50.138699,235.13471 2.6535187,152.88797 50.138698,70.641226 l 94.970362,0 47.48518,82.246744 -47.48518,82.24674 z"
+           inkscape:transform-center-x="9.0499851e-06"
+           transform="matrix(0.22161464,0,0,0.22161464,30.670199,71.117787)" />
+        <path
+           sodipodi:type="star"
+           style="fill:none;stroke:#158ec0;stroke-width:20.8333;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="path4077-7"
+           inkscape:flatsided="true"
+           sodipodi:sides="6"
+           sodipodi:cx="97.623878"
+           sodipodi:cy="152.88797"
+           sodipodi:r1="94.97036"
+           sodipodi:r2="82.246742"
+           sodipodi:arg1="2.0943951"
+           sodipodi:arg2="2.6179939"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="M 50.138699,235.13471 2.6535187,152.88797 50.138698,70.641226 l 94.970362,0 47.48518,82.246744 -47.48518,82.24674 z"
+           transform="matrix(0.17020003,0,0,0.17020003,35.689494,78.978461)"
+           inkscape:transform-center-x="4.8233291e-06" />
+      </g>
       <text
-         x="65.265259"
-         y="124.66994"
-         style="font-size:55.0148px;font-family:Verdana, sans-serif;clip-rule:evenodd;fill:#4f4f4f;fill-rule:evenodd;stroke-width:0.137536;stroke-linejoin:round;stroke-miterlimit:2"
+         x="81.389069"
+         y="121.04257"
+         style="font-size:44.9564px;font-family:Verdana, sans-serif;letter-spacing:-1.32292px;clip-rule:evenodd;fill:#4f4f4f;fill-rule:evenodd;stroke-width:0.11239;stroke-linejoin:round;stroke-miterlimit:2"
          id="text13661">consilica</text>
     </g>
     <text
