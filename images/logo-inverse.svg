@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="267.44601mm"
-   height="80mm"
-   viewBox="0 0 267.44601 80"
+   width="68.459137mm"
+   height="60mm"
+   viewBox="0 0 68.459133 60"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
    sodipodi:docname="logo-inverse.svg"
    inkscape:export-filename="2023-consilica-logo-inverse.png"
    inkscape:export-xdpi="150"
@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.96102398"
-     inkscape:cx="669.59828"
-     inkscape:cy="107.69762"
+     inkscape:cx="267.42309"
+     inkscape:cy="-44.743941"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="0"
@@ -49,7 +49,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-29.485368,-85)">
+     transform="translate(-49.485377,-105)">
     <path
        sodipodi:type="star"
        style="fill:none;stroke:#ffffff;stroke-width:16;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
@@ -66,7 +66,7 @@
        inkscape:randomized="0"
        d="M 50.138699,235.13471 2.6535187,152.88797 50.138698,70.641226 l 94.970362,0 47.48518,82.246744 -47.48518,82.24674 z"
        inkscape:transform-center-x="9.0499851e-06"
-       transform="matrix(0.22161464,0,0,0.22161464,50.670208,91.117787)"
+       transform="matrix(0.22161464,0,0,0.22161464,62.080065,101.11779)"
        inkscape:export-filename="2023-consilica-logo-inverse.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150" />
@@ -85,13 +85,8 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="M 50.138699,235.13471 2.6535187,152.88797 50.138698,70.641226 l 94.970362,0 47.48518,82.246744 -47.48518,82.24674 z"
-       transform="matrix(0.17020003,0,0,0.17020003,55.689503,98.978461)"
+       transform="matrix(0.17020003,0,0,0.17020003,67.099358,108.97846)"
        inkscape:transform-center-x="4.8233291e-06" />
-    <text
-       x="101.38908"
-       y="141.04257"
-       style="font-size:44.9564px;font-family:Verdana, sans-serif;letter-spacing:-1.32292px;clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd;stroke-width:0.11239;stroke-linejoin:round;stroke-miterlimit:2"
-       id="text13661">consilica</text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
